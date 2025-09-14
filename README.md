@@ -1,3 +1,3 @@
 # 쇼츠 구현 플레이 영상
 
-<img width="50%" height="80%" src="https://github.com/user-attachments/assets/a34c4fad-db59-4213-aa77-a3a7d0372235"/>
+[short_play_exam.webm](https://github.com/user-attachments/assets/bfb05ecb-b8eb-4d7e-8249-12f41d99f31f)
